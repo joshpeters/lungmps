@@ -1,0 +1,10 @@
+{
+  
+  "1": {
+    "title": "Overview",
+    "content": "Meta-analyses of the lung MPS transcriptional landscape . This website serves to document and present the analyses conducted within this Github repository. The code may not be accessible until the authors release it. If you would like access to the repository prior to public release, please email the authors. . View the code on Github . Overview . . This repository can be viewed on its website. The data for this repository is on Zenodo. .",
+    "url": "http://localhost:4000/lungmps/",
+    "relUrl": "/"
+  }
+  
+}
