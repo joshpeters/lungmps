@@ -1,0 +1,16 @@
+remote_theme: pmarsceill/just-the-docs
+title: Lung MPS
+description: Lung MPS scRNA-seq Meta-analysis
+baseurl: "/lungmps/"
+url: "https://joshpeters.github.io"
+search_enabled: false
+color_scheme: "nil"
+plugins:
+  - jemoji
+aux_links:
+  "Analysis on Github":
+    - "https://github.com/joshpeters/lungmps"
+  "Bryson Lab":
+    - "https://brysonlab.mit.edu/"
+footer_content: "Peters et al. 2020. Distributed by an <a href=\"https://github.com/joshpeters/lungmps/blob/master/LICENSE\">MIT license.</a>"
+search_tokenizer_separator: /[\s/]+/

@@ -1,0 +1,42 @@
+/* wong */
+.label-worange {
+  background-color: #E69F00;
+}
+.label-wblack {
+  background-color: #000000;
+}
+.label-wlightblue {
+  background-color: #56B4E9;
+}
+.label-wgreen {
+  background-color: #009E73;
+}
+.label-wyellow {
+  background-color: #F0E442;
+  color: #000000;
+}
+.label-wdarkblue {
+  background-color: #0072B2;
+}
+.label-wred {
+  background-color: #D55E00;
+}
+.label-wpink {
+  background-color: #CC79A7;
+  color: #000000;
+}
+.label-wgray {
+  background-color: $grey-lt-300;
+}
+
+.btn-green {
+  @include btn-color($white, $wgreen);
+}
+
+.btn-orange {
+  @include btn-color($white, $worange);
+}
+
+.btn-darkblue {
+  @include btn-color($white, $wdarkblue);
+}
