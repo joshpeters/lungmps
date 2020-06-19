@@ -2,9 +2,27 @@
   
   "1": {
     "title": "Overview",
-    "content": "Meta-analyses of the lung MPS transcriptional landscape . This website serves to document and present the analyses conducted within this Github repository. The code may not be accessible until the authors release it. If you would like access to the repository prior to public release, please email the authors. . View the code on Github . Overview . . This repository can be viewed on its website. The data for this repository is on Zenodo. .",
+    "content": "Meta-analyses of the lung MPStranscriptional landscape . This website serves to document and present the analyses published in Peters et al. and contained within this repository. This repository contains code for . processing Seurat objects, | clustering and marker definition, | comparison and visualization of gene sets. | . The data for this repository is on Zenodo. For additional code or questions, please contact Josh Peters (petersjm@mit.edu) . . View the code on Github .",
     "url": "http://localhost:4000/lungmps/",
     "relUrl": "/"
+  }
+  ,"2": {
+    "title": "Markers",
+    "content": "Consensus gene markers . . View the code on Github .",
+    "url": "http://localhost:4000/lungmps/markers",
+    "relUrl": "/markers"
+  }
+  ,"3": {
+    "title": "Processing",
+    "content": "Preprocessing of cohorts . . View the code on Github .",
+    "url": "http://localhost:4000/lungmps/processing",
+    "relUrl": "/processing"
+  }
+  ,"4": {
+    "title": "Programs",
+    "content": "Consensus gene expression programs . . View the code on Github .",
+    "url": "http://localhost:4000/lungmps/programs",
+    "relUrl": "/programs"
   }
   
 }

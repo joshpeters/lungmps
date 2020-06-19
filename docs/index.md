@@ -6,14 +6,16 @@ description: "Lung MPS"
 permalink: /
 ---
 
-# Meta-analyses of the lung MPS transcriptional landscape
+# Meta-analyses of the lung MPS<br>transcriptional landscape
 
-This website serves to document and present the analyses conducted within this Github repository. The code may not be accessible until the authors release it. If you would like access to the repository prior to public release, please email the [authors](mailto:petersjm@mit.edu).
+This website serves to document and present the analyses published in Peters et al. and contained within this repository.
+This repository contains code for
+- processing Seurat objects,
+- clustering and marker definition,
+- comparison and visualization of gene sets.
 
-[View the code on Github](https://github.com/joshpeters/lungmps){: .btn .fs-4}
-
-## Overview
-
+The data for this repository is on [Zenodo](https://doi.org/10.5281/zenodo.3894750).
+For additional code or questions, please contact Josh Peters ([petersjm@mit.edu](mailto:petersjm@mit.edu))
 
 ---
-This repository can be viewed on its [website](https://joshpeters.github.io/lungmps/). The data for this repository is on [Zenodo](https://doi.org/10.5281/zenodo.3894750).
+[View the code on Github](https://github.com/joshpeters/lungmps){: .btn .fs-4}
