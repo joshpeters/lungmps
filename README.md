@@ -5,7 +5,7 @@
     <br>
 </p>
 
-This repository contains code for both the analyses and public website presented in *Peters et al.* The raw data is available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894750.svg)](https://doi.org/10.5281/zenodo.3894750). If any data or code is used for your own work, we kindly ask that you cite this paper. If you need help using our data or code for your work, please reach out! We are excited about this avenue of work and welcome any opportunities to collaborate further.
+This repository contains code for both the analyses and public website presented in [Peters et al.](https://www.biorxiv.org/content/10.1101/2020.08.06.240424v2). The raw data is available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894750.svg)](https://doi.org/10.5281/zenodo.3894750). If any data or code is used for your own work, we kindly ask that you cite this paper. If you need help using our data or code for your work, please reach out! We are excited about this avenue of work and welcome any opportunities to collaborate further.
 
 ### Getting Started
 1. Clone the repository
@@ -13,8 +13,6 @@ This repository contains code for both the analyses and public website presented
 git clone https://github.com/joshpeters/lungmps.git
 cd lungmps
 ```
-2. Install necessary packages and gather necessary data listed in requirements.txt
-3. Run scripts and notebooks of interest. Necessary data should be noted at the top of each script.
 
 ### Issues
 Feel free to open issues on this Github page with respect to the code presented here. For other questions, please email the authors (petersjm [at] mit.edu). We are happy to troubleshoot any analyses you are interested in.

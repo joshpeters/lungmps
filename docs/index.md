@@ -8,7 +8,7 @@ permalink: /
 
 # Meta-analyses of the lung MPS<br>transcriptional landscape
 
-This website serves to document and present the analyses published in Peters et al. and contained within this repository.
+This website serves to document and present the analyses published in [Peters et al.](https://www.biorxiv.org/content/10.1101/2020.08.06.240424v2) and contained within this repository.
 This repository contains code for
 - processing Seurat objects,
 - clustering and marker definition,
