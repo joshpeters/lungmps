@@ -40,3 +40,6 @@ vignettes/*.pdf
 .DS_Store
 data/objects/*
 pdfs/*
+*.docsx
+figures/*
+plots/*
