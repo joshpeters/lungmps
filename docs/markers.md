@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Markers
+title: States
 nav_order: 3
 description: "Lung MPS"
 permalink: /markers
 ---
 
-## Consensus gene markers
+## Consensus cell states
 
 
 ---
