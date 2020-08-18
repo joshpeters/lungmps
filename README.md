@@ -1,6 +1,6 @@
 <p align="center">
     <h2 align="center">Single cell transcriptomic meta-analysis of<br>the lung mononuclear phagocyte compartment<br>across health and disease</h2>
-    <p align="center">[Peters et al. 2020](https://www.biorxiv.org/content/10.1101/2020.08.06.240424v2)<br>
+    <p align="center"><a href="https://www.biorxiv.org/content/10.1101/2020.08.06.240424v2">Peters et al. 2020</a><br>
     <strong><a href="https://joshpeters.github.io/lungmps">Visit the website for analysis information</a></strong></p>
     <br>
 </p>
